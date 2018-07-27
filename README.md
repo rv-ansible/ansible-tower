@@ -21,4 +21,4 @@ but if it continue not to work because the package dependencies won't install, t
 The other link that this script/playbook is using might also change, so verify if it breaks and find a new link.
 ```
 
-# Created by Venerari and Lazaroall
+
